@@ -16,6 +16,7 @@
 		EE7EA38425EB08D4007679AC /* Hard336_Palindrome_Pairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE7EA38325EB08D4007679AC /* Hard336_Palindrome_Pairs.swift */; };
 		EE7EA38725EC98C0007679AC /* Medium102_Binary_Tree_Level_Order_Traversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE7EA38625EC98C0007679AC /* Medium102_Binary_Tree_Level_Order_Traversal.swift */; };
 		EE7EA38A25EC98F1007679AC /* TreeNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE7EA38925EC98F1007679AC /* TreeNode.swift */; };
+		EE7EA38D25EDA51E007679AC /* Easy235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE7EA38C25EDA51E007679AC /* Easy235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		EE7EA38325EB08D4007679AC /* Hard336_Palindrome_Pairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hard336_Palindrome_Pairs.swift; sourceTree = "<group>"; };
 		EE7EA38625EC98C0007679AC /* Medium102_Binary_Tree_Level_Order_Traversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium102_Binary_Tree_Level_Order_Traversal.swift; sourceTree = "<group>"; };
 		EE7EA38925EC98F1007679AC /* TreeNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeNode.swift; sourceTree = "<group>"; };
+		EE7EA38C25EDA51E007679AC /* Easy235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,6 +50,7 @@
 			children = (
 				EE7EA38325EB08D4007679AC /* Hard336_Palindrome_Pairs.swift */,
 				EE7EA38625EC98C0007679AC /* Medium102_Binary_Tree_Level_Order_Traversal.swift */,
+				EE7EA38C25EDA51E007679AC /* Easy235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.swift */,
 				EE7EA38925EC98F1007679AC /* TreeNode.swift */,
 				EE7EA36325E7053A007679AC /* DailyLeetCode */,
 				EE7EA36225E7053A007679AC /* Products */,
@@ -158,6 +161,7 @@
 				EE7EA36925E7053A007679AC /* ViewController.swift in Sources */,
 				EE7EA36525E7053A007679AC /* AppDelegate.swift in Sources */,
 				EE7EA38725EC98C0007679AC /* Medium102_Binary_Tree_Level_Order_Traversal.swift in Sources */,
+				EE7EA38D25EDA51E007679AC /* Easy235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.swift in Sources */,
 				EE7EA36725E7053A007679AC /* SceneDelegate.swift in Sources */,
 				EE7EA38A25EC98F1007679AC /* TreeNode.swift in Sources */,
 			);
