@@ -18,6 +18,8 @@
 		EE7EA38A25EC98F1007679AC /* TreeNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE7EA38925EC98F1007679AC /* TreeNode.swift */; };
 		EE7EA38D25EDA51E007679AC /* Easy235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE7EA38C25EDA51E007679AC /* Easy235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.swift */; };
 		EE7EA39025EEE692007679AC /* Medium236_Lowest_Common_Ancestor_of_a_Binary_Tree .swift in Sources */ = {isa = PBXBuildFile; fileRef = EE7EA38F25EEE692007679AC /* Medium236_Lowest_Common_Ancestor_of_a_Binary_Tree .swift */; };
+		EE7EA39B25F0A5ED007679AC /* Medium1644_Lowest_Common_Ancestor_of_a_Binary_Tree_II.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE7EA39A25F0A5ED007679AC /* Medium1644_Lowest_Common_Ancestor_of_a_Binary_Tree_II.swift */; };
+		EE7EA39E25F4279E007679AC /* Medium1650_Lowest_Common_Ancestor_of_a_Binary_Tree_III.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE7EA39D25F4279E007679AC /* Medium1650_Lowest_Common_Ancestor_of_a_Binary_Tree_III.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +36,8 @@
 		EE7EA38925EC98F1007679AC /* TreeNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeNode.swift; sourceTree = "<group>"; };
 		EE7EA38C25EDA51E007679AC /* Easy235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.swift; sourceTree = "<group>"; };
 		EE7EA38F25EEE692007679AC /* Medium236_Lowest_Common_Ancestor_of_a_Binary_Tree .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Medium236_Lowest_Common_Ancestor_of_a_Binary_Tree .swift"; sourceTree = "<group>"; };
+		EE7EA39A25F0A5ED007679AC /* Medium1644_Lowest_Common_Ancestor_of_a_Binary_Tree_II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium1644_Lowest_Common_Ancestor_of_a_Binary_Tree_II.swift; sourceTree = "<group>"; };
+		EE7EA39D25F4279E007679AC /* Medium1650_Lowest_Common_Ancestor_of_a_Binary_Tree_III.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium1650_Lowest_Common_Ancestor_of_a_Binary_Tree_III.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +56,8 @@
 			children = (
 				EE7EA38325EB08D4007679AC /* Hard336_Palindrome_Pairs.swift */,
 				EE7EA38625EC98C0007679AC /* Medium102_Binary_Tree_Level_Order_Traversal.swift */,
+				EE7EA39A25F0A5ED007679AC /* Medium1644_Lowest_Common_Ancestor_of_a_Binary_Tree_II.swift */,
+				EE7EA39D25F4279E007679AC /* Medium1650_Lowest_Common_Ancestor_of_a_Binary_Tree_III.swift */,
 				EE7EA38C25EDA51E007679AC /* Easy235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.swift */,
 				EE7EA38F25EEE692007679AC /* Medium236_Lowest_Common_Ancestor_of_a_Binary_Tree .swift */,
 				EE7EA38925EC98F1007679AC /* TreeNode.swift */,
@@ -160,12 +166,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EE7EA39E25F4279E007679AC /* Medium1650_Lowest_Common_Ancestor_of_a_Binary_Tree_III.swift in Sources */,
 				EE7EA38425EB08D4007679AC /* Hard336_Palindrome_Pairs.swift in Sources */,
 				EE7EA39025EEE692007679AC /* Medium236_Lowest_Common_Ancestor_of_a_Binary_Tree .swift in Sources */,
 				EE7EA36925E7053A007679AC /* ViewController.swift in Sources */,
 				EE7EA36525E7053A007679AC /* AppDelegate.swift in Sources */,
 				EE7EA38725EC98C0007679AC /* Medium102_Binary_Tree_Level_Order_Traversal.swift in Sources */,
 				EE7EA38D25EDA51E007679AC /* Easy235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.swift in Sources */,
+				EE7EA39B25F0A5ED007679AC /* Medium1644_Lowest_Common_Ancestor_of_a_Binary_Tree_II.swift in Sources */,
 				EE7EA36725E7053A007679AC /* SceneDelegate.swift in Sources */,
 				EE7EA38A25EC98F1007679AC /* TreeNode.swift in Sources */,
 			);
