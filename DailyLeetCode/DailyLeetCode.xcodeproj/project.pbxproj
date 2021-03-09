@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EE64AEFD25F8199000EB8BEF /* Medium253_Meeting_Rooms_II.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE64AEFC25F8199000EB8BEF /* Medium253_Meeting_Rooms_II.swift */; };
+		EE64AF0125F81A3100EB8BEF /* Easy252_Meeting_Rooms.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE64AF0025F81A3100EB8BEF /* Easy252_Meeting_Rooms.swift */; };
 		EE7EA36525E7053A007679AC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE7EA36425E7053A007679AC /* AppDelegate.swift */; };
 		EE7EA36725E7053A007679AC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE7EA36625E7053A007679AC /* SceneDelegate.swift */; };
 		EE7EA36925E7053A007679AC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE7EA36825E7053A007679AC /* ViewController.swift */; };
@@ -23,6 +25,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EE64AEFC25F8199000EB8BEF /* Medium253_Meeting_Rooms_II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium253_Meeting_Rooms_II.swift; sourceTree = "<group>"; };
+		EE64AF0025F81A3100EB8BEF /* Easy252_Meeting_Rooms.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy252_Meeting_Rooms.swift; sourceTree = "<group>"; };
 		EE7EA36125E7053A007679AC /* DailyLeetCode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DailyLeetCode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE7EA36425E7053A007679AC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EE7EA36625E7053A007679AC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -54,13 +58,6 @@
 		EE7EA35825E7053A007679AC = {
 			isa = PBXGroup;
 			children = (
-				EE7EA38325EB08D4007679AC /* Hard336_Palindrome_Pairs.swift */,
-				EE7EA38625EC98C0007679AC /* Medium102_Binary_Tree_Level_Order_Traversal.swift */,
-				EE7EA39A25F0A5ED007679AC /* Medium1644_Lowest_Common_Ancestor_of_a_Binary_Tree_II.swift */,
-				EE7EA39D25F4279E007679AC /* Medium1650_Lowest_Common_Ancestor_of_a_Binary_Tree_III.swift */,
-				EE7EA38C25EDA51E007679AC /* Easy235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.swift */,
-				EE7EA38F25EEE692007679AC /* Medium236_Lowest_Common_Ancestor_of_a_Binary_Tree .swift */,
-				EE7EA38925EC98F1007679AC /* TreeNode.swift */,
 				EE7EA36325E7053A007679AC /* DailyLeetCode */,
 				EE7EA36225E7053A007679AC /* Products */,
 			);
@@ -77,6 +74,16 @@
 		EE7EA36325E7053A007679AC /* DailyLeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				EE7EA37225E7053B007679AC /* Info.plist */,
+				EE7EA38325EB08D4007679AC /* Hard336_Palindrome_Pairs.swift */,
+				EE7EA38625EC98C0007679AC /* Medium102_Binary_Tree_Level_Order_Traversal.swift */,
+				EE7EA39A25F0A5ED007679AC /* Medium1644_Lowest_Common_Ancestor_of_a_Binary_Tree_II.swift */,
+				EE7EA39D25F4279E007679AC /* Medium1650_Lowest_Common_Ancestor_of_a_Binary_Tree_III.swift */,
+				EE7EA38C25EDA51E007679AC /* Easy235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.swift */,
+				EE7EA38F25EEE692007679AC /* Medium236_Lowest_Common_Ancestor_of_a_Binary_Tree .swift */,
+				EE7EA38925EC98F1007679AC /* TreeNode.swift */,
+				EE64AEFC25F8199000EB8BEF /* Medium253_Meeting_Rooms_II.swift */,
+				EE64AF0025F81A3100EB8BEF /* Easy252_Meeting_Rooms.swift */,
 				EE7EA37925E705AD007679AC /* Supporting Files */,
 			);
 			path = DailyLeetCode;
@@ -91,7 +98,6 @@
 				EE7EA36A25E7053A007679AC /* Main.storyboard */,
 				EE7EA36D25E7053B007679AC /* Assets.xcassets */,
 				EE7EA36F25E7053B007679AC /* LaunchScreen.storyboard */,
-				EE7EA37225E7053B007679AC /* Info.plist */,
 			);
 			path = "Supporting Files";
 			sourceTree = "<group>";
@@ -166,12 +172,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EE64AF0125F81A3100EB8BEF /* Easy252_Meeting_Rooms.swift in Sources */,
 				EE7EA39E25F4279E007679AC /* Medium1650_Lowest_Common_Ancestor_of_a_Binary_Tree_III.swift in Sources */,
 				EE7EA38425EB08D4007679AC /* Hard336_Palindrome_Pairs.swift in Sources */,
 				EE7EA39025EEE692007679AC /* Medium236_Lowest_Common_Ancestor_of_a_Binary_Tree .swift in Sources */,
 				EE7EA36925E7053A007679AC /* ViewController.swift in Sources */,
 				EE7EA36525E7053A007679AC /* AppDelegate.swift in Sources */,
 				EE7EA38725EC98C0007679AC /* Medium102_Binary_Tree_Level_Order_Traversal.swift in Sources */,
+				EE64AEFD25F8199000EB8BEF /* Medium253_Meeting_Rooms_II.swift in Sources */,
 				EE7EA38D25EDA51E007679AC /* Easy235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.swift in Sources */,
 				EE7EA39B25F0A5ED007679AC /* Medium1644_Lowest_Common_Ancestor_of_a_Binary_Tree_II.swift in Sources */,
 				EE7EA36725E7053A007679AC /* SceneDelegate.swift in Sources */,
