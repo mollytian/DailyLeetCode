@@ -9,10 +9,7 @@ import Foundation
 
 class Medium253_Meeting_Rooms_II {
     func minMeetingRooms(_ intervals: [[Int]]) -> Int {
-        guard var intervals = intervals, intervals != 0 else {
-            return 0
-        }
-        
+        return 0
     }
     
     /* Java
