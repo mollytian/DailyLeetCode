@@ -10,6 +10,7 @@
 		EE64AEFD25F8199000EB8BEF /* Medium253_Meeting_Rooms_II.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE64AEFC25F8199000EB8BEF /* Medium253_Meeting_Rooms_II.swift */; };
 		EE64AF0125F81A3100EB8BEF /* Easy252_Meeting_Rooms.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE64AF0025F81A3100EB8BEF /* Easy252_Meeting_Rooms.swift */; };
 		EE64AF0425F9D27700EB8BEF /* Hard732_My_Calendar_III.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE64AF0325F9D27700EB8BEF /* Hard732_My_Calendar_III.swift */; };
+		EE64AF0725F9D31A00EB8BEF /* Medium1676_Lowest_Common_Ancestor_of_a_Binary_Tree_IV.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE64AF0625F9D31A00EB8BEF /* Medium1676_Lowest_Common_Ancestor_of_a_Binary_Tree_IV.swift */; };
 		EE7EA36525E7053A007679AC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE7EA36425E7053A007679AC /* AppDelegate.swift */; };
 		EE7EA36725E7053A007679AC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE7EA36625E7053A007679AC /* SceneDelegate.swift */; };
 		EE7EA36925E7053A007679AC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE7EA36825E7053A007679AC /* ViewController.swift */; };
@@ -29,6 +30,7 @@
 		EE64AEFC25F8199000EB8BEF /* Medium253_Meeting_Rooms_II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium253_Meeting_Rooms_II.swift; sourceTree = "<group>"; };
 		EE64AF0025F81A3100EB8BEF /* Easy252_Meeting_Rooms.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy252_Meeting_Rooms.swift; sourceTree = "<group>"; };
 		EE64AF0325F9D27700EB8BEF /* Hard732_My_Calendar_III.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hard732_My_Calendar_III.swift; sourceTree = "<group>"; };
+		EE64AF0625F9D31A00EB8BEF /* Medium1676_Lowest_Common_Ancestor_of_a_Binary_Tree_IV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium1676_Lowest_Common_Ancestor_of_a_Binary_Tree_IV.swift; sourceTree = "<group>"; };
 		EE7EA36125E7053A007679AC /* DailyLeetCode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DailyLeetCode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE7EA36425E7053A007679AC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EE7EA36625E7053A007679AC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -82,6 +84,7 @@
 				EE7EA39A25F0A5ED007679AC /* Medium1644_Lowest_Common_Ancestor_of_a_Binary_Tree_II.swift */,
 				EE7EA39D25F4279E007679AC /* Medium1650_Lowest_Common_Ancestor_of_a_Binary_Tree_III.swift */,
 				EE7EA38C25EDA51E007679AC /* Easy235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.swift */,
+				EE64AF0625F9D31A00EB8BEF /* Medium1676_Lowest_Common_Ancestor_of_a_Binary_Tree_IV.swift */,
 				EE7EA38F25EEE692007679AC /* Medium236_Lowest_Common_Ancestor_of_a_Binary_Tree .swift */,
 				EE7EA38925EC98F1007679AC /* TreeNode.swift */,
 				EE64AEFC25F8199000EB8BEF /* Medium253_Meeting_Rooms_II.swift */,
@@ -188,6 +191,7 @@
 				EE7EA39B25F0A5ED007679AC /* Medium1644_Lowest_Common_Ancestor_of_a_Binary_Tree_II.swift in Sources */,
 				EE7EA36725E7053A007679AC /* SceneDelegate.swift in Sources */,
 				EE7EA38A25EC98F1007679AC /* TreeNode.swift in Sources */,
+				EE64AF0725F9D31A00EB8BEF /* Medium1676_Lowest_Common_Ancestor_of_a_Binary_Tree_IV.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
