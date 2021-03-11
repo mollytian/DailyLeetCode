@@ -9,7 +9,7 @@ import Foundation
 
 class Easy252_Meeting_Rooms {
     func canAttendMeetings(_ intervals: [[Int]]) -> Bool {
-        
+        return true
     }
     
     

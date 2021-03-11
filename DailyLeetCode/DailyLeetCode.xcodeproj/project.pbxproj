@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		EE64AEFD25F8199000EB8BEF /* Medium253_Meeting_Rooms_II.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE64AEFC25F8199000EB8BEF /* Medium253_Meeting_Rooms_II.swift */; };
 		EE64AF0125F81A3100EB8BEF /* Easy252_Meeting_Rooms.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE64AF0025F81A3100EB8BEF /* Easy252_Meeting_Rooms.swift */; };
+		EE64AF0425F9D27700EB8BEF /* Hard732_My_Calendar_III.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE64AF0325F9D27700EB8BEF /* Hard732_My_Calendar_III.swift */; };
 		EE7EA36525E7053A007679AC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE7EA36425E7053A007679AC /* AppDelegate.swift */; };
 		EE7EA36725E7053A007679AC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE7EA36625E7053A007679AC /* SceneDelegate.swift */; };
 		EE7EA36925E7053A007679AC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE7EA36825E7053A007679AC /* ViewController.swift */; };
@@ -27,6 +28,7 @@
 /* Begin PBXFileReference section */
 		EE64AEFC25F8199000EB8BEF /* Medium253_Meeting_Rooms_II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium253_Meeting_Rooms_II.swift; sourceTree = "<group>"; };
 		EE64AF0025F81A3100EB8BEF /* Easy252_Meeting_Rooms.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy252_Meeting_Rooms.swift; sourceTree = "<group>"; };
+		EE64AF0325F9D27700EB8BEF /* Hard732_My_Calendar_III.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hard732_My_Calendar_III.swift; sourceTree = "<group>"; };
 		EE7EA36125E7053A007679AC /* DailyLeetCode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DailyLeetCode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE7EA36425E7053A007679AC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EE7EA36625E7053A007679AC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -84,6 +86,7 @@
 				EE7EA38925EC98F1007679AC /* TreeNode.swift */,
 				EE64AEFC25F8199000EB8BEF /* Medium253_Meeting_Rooms_II.swift */,
 				EE64AF0025F81A3100EB8BEF /* Easy252_Meeting_Rooms.swift */,
+				EE64AF0325F9D27700EB8BEF /* Hard732_My_Calendar_III.swift */,
 				EE7EA37925E705AD007679AC /* Supporting Files */,
 			);
 			path = DailyLeetCode;
@@ -178,6 +181,7 @@
 				EE7EA39025EEE692007679AC /* Medium236_Lowest_Common_Ancestor_of_a_Binary_Tree .swift in Sources */,
 				EE7EA36925E7053A007679AC /* ViewController.swift in Sources */,
 				EE7EA36525E7053A007679AC /* AppDelegate.swift in Sources */,
+				EE64AF0425F9D27700EB8BEF /* Hard732_My_Calendar_III.swift in Sources */,
 				EE7EA38725EC98C0007679AC /* Medium102_Binary_Tree_Level_Order_Traversal.swift in Sources */,
 				EE64AEFD25F8199000EB8BEF /* Medium253_Meeting_Rooms_II.swift in Sources */,
 				EE7EA38D25EDA51E007679AC /* Easy235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.swift in Sources */,
