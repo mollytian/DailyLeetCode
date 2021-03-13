@@ -12,7 +12,7 @@ class Medium56_Merge_Intervals {
         if intervals.count < 1{
             return intervals
         }
-        var intervals = intervals.sorted{$0[0] < $1[0]}
+        let intervals = intervals.sorted{$0[0] < $1[0]}
         var results = [intervals[0]]
         
         for i in 1..<intervals.count{
@@ -25,7 +25,6 @@ class Medium56_Merge_Intervals {
                 results.append(interval)
             }
         }
-        
         return results
     }
 }
