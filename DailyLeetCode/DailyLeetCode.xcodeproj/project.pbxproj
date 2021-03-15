@@ -19,6 +19,7 @@
 		EE64AF2025FC6B7700EB8BEF /* Medium1272_Remove_Interval.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE64AF1F25FC6B7700EB8BEF /* Medium1272_Remove_Interval.swift */; };
 		EE64AF2325FF00BB00EB8BEF /* Medium435_Non-overlapping_Intervals.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE64AF2225FF00BB00EB8BEF /* Medium435_Non-overlapping_Intervals.swift */; };
 		EE64AF2625FF0ED100EB8BEF /* Medium1288_Remove_Covered_Intervals.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE64AF2525FF0ED100EB8BEF /* Medium1288_Remove_Covered_Intervals.swift */; };
+		EE64AF2925FF14E000EB8BEF /* Medium452_Minimum_Number_of_Arrows_to_Burst_Balloons.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE64AF2825FF14E000EB8BEF /* Medium452_Minimum_Number_of_Arrows_to_Burst_Balloons.swift */; };
 		EE7EA36525E7053A007679AC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE7EA36425E7053A007679AC /* AppDelegate.swift */; };
 		EE7EA36725E7053A007679AC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE7EA36625E7053A007679AC /* SceneDelegate.swift */; };
 		EE7EA36925E7053A007679AC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE7EA36825E7053A007679AC /* ViewController.swift */; };
@@ -47,6 +48,7 @@
 		EE64AF1F25FC6B7700EB8BEF /* Medium1272_Remove_Interval.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium1272_Remove_Interval.swift; sourceTree = "<group>"; };
 		EE64AF2225FF00BB00EB8BEF /* Medium435_Non-overlapping_Intervals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Medium435_Non-overlapping_Intervals.swift"; sourceTree = "<group>"; };
 		EE64AF2525FF0ED100EB8BEF /* Medium1288_Remove_Covered_Intervals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium1288_Remove_Covered_Intervals.swift; sourceTree = "<group>"; };
+		EE64AF2825FF14E000EB8BEF /* Medium452_Minimum_Number_of_Arrows_to_Burst_Balloons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium452_Minimum_Number_of_Arrows_to_Burst_Balloons.swift; sourceTree = "<group>"; };
 		EE7EA36125E7053A007679AC /* DailyLeetCode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DailyLeetCode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE7EA36425E7053A007679AC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EE7EA36625E7053A007679AC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -113,6 +115,7 @@
 				EE64AF1F25FC6B7700EB8BEF /* Medium1272_Remove_Interval.swift */,
 				EE64AF2225FF00BB00EB8BEF /* Medium435_Non-overlapping_Intervals.swift */,
 				EE64AF2525FF0ED100EB8BEF /* Medium1288_Remove_Covered_Intervals.swift */,
+				EE64AF2825FF14E000EB8BEF /* Medium452_Minimum_Number_of_Arrows_to_Burst_Balloons.swift */,
 				EE7EA37225E7053B007679AC /* Info.plist */,
 				EE7EA37925E705AD007679AC /* Supporting Files */,
 			);
@@ -206,6 +209,7 @@
 				EE64AF0125F81A3100EB8BEF /* Easy252_Meeting_Rooms.swift in Sources */,
 				EE7EA39E25F4279E007679AC /* Medium1650_Lowest_Common_Ancestor_of_a_Binary_Tree_III.swift in Sources */,
 				EE7EA38425EB08D4007679AC /* Hard336_Palindrome_Pairs.swift in Sources */,
+				EE64AF2925FF14E000EB8BEF /* Medium452_Minimum_Number_of_Arrows_to_Burst_Balloons.swift in Sources */,
 				EE7EA39025EEE692007679AC /* Medium236_Lowest_Common_Ancestor_of_a_Binary_Tree .swift in Sources */,
 				EE64AF0A25F9D3A700EB8BEF /* Medium1740_Find_Distance_in_a_Binary_Tree.swift in Sources */,
 				EE64AF2025FC6B7700EB8BEF /* Medium1272_Remove_Interval.swift in Sources */,
