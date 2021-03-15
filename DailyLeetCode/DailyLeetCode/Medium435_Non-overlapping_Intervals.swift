@@ -7,7 +7,7 @@
 
 import Foundation
 
-class Solution {
+class Medium435_Non_overlapping_Intervals {
     func eraseOverlapIntervals(_ intervals: [[Int]]) -> Int {
         var intervals = intervals.sorted(by: { $0[0] < $1[0] })
         var res = 0
